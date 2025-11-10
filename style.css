@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background: #fdfdfd;
-    color: #222;
+    color: black;
 }
 
 header {
@@ -48,7 +48,7 @@ nav a:hover {
     text-align: center;
     padding: 6rem 2rem;
     background: linear-gradient(135deg, #70e1f5, #ffd194);
-    color: #222;
+    color: black;
 }
 
 .hero h2 {
