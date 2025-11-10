@@ -71,23 +71,25 @@ nav a:hover {
     background: #ff8e53;
 }
 
-.about, .projects, .contact {
+.about, .projects, .contact, .impressum {
     padding: 4rem 2rem;
     text-align: center;
 }
 
 .about {
-    background: #fff0f6;
+    background: #ffff00;
 }
 
 .projects {
-    background: #e3fdfd;
+    background: #ffff00;
 }
 
 .contact {
-    background: #f9f9f9;
+    background: #ffff00;
 }
-
+.impressum {
+    background: #ffff00;
+}
 .project-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
