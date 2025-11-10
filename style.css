@@ -11,7 +11,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 1rem 3rem;
-    background: linear-gradient(90deg, #ff5f6d, #ffc371);
+    background: linear-gradient(90deg, #ffff00, #fcfc58);
     color: white;
 }
 
@@ -21,8 +21,8 @@ header {
 }
 
 .logo img {
-    height: 60px;
-    margin-right: 10px;
+    height: 90px;
+    margin-right: 15px;
 }
 
 nav ul {
